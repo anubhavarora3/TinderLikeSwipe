@@ -5,6 +5,6 @@
     android:id="@+id/parent_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anubharora.tinderlikeswipe.MainActivity">
+    tools:context="com.example.anubharora.tinderlikeswipe.activities.MainActivity">
 
 </RelativeLayout>

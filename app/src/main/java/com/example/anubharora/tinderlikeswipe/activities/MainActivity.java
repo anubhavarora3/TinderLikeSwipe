@@ -1,4 +1,4 @@
-package com.example.anubharora.tinderlikeswipe;
+package com.example.anubharora.tinderlikeswipe.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 import static android.widget.LinearLayout.LayoutParams;
 
+import com.example.anubharora.tinderlikeswipe.R;
 import com.example.anubharora.tinderlikeswipe.model.UserModel;
 
 import java.util.ArrayList;
